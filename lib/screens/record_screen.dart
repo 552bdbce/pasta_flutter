@@ -11,7 +11,7 @@ class _RecordScreen extends State<RecordScreen>{
   Widget build(BuildContext context ) {
     return Scaffold(
       body: Container(
-
+        child: Center(child: Text('table data here')),
       ),
     );
   }
